@@ -5,7 +5,7 @@ public class student {
         this.age = age;
     }
 
-    public int getage() {
+    public int getAge() {
         return age;
     }
 }
